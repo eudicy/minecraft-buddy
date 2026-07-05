@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1783277249636,
+  "projectRoot": "/home/galadriel/Documents/Cline/minecraft-buddy",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "docs/architecture/decisions/001-companion-entity-technology.md",
+      "accessCount": 5,
+      "lastAccessed": 1783281443616,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1783278014420,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
