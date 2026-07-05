@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "minecraft_buddy",
+  "project_id": "2c316514-de1e-42fd-8383-ef119de50f5b"
+}
